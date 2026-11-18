@@ -1,0 +1,6 @@
+{
+  "name": "Ajrak Lab",
+  "description": "An interactive cultural-tech studio exploring the geometry, structures, and possibilities of Sindhi Ajrak textile design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
